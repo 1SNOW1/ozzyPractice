@@ -19,6 +19,25 @@ public class Main {
 
         printDoubled(items);
 
+        System.out.println("------------------------------------------------------------------");
+
+        FootballPlayer joe = new FootballPlayer("joe"); //created an object
+        BaseballPlayer pat = new BaseballPlayer("pat");
+        SoccerPlayer beckham = new SoccerPlayer("beckham");
+
+        Team<SoccerPlayer> liverpool = new Team("Liverpool"); //problem --> team is accepting any object
+       // liverpool.addPlayer(joe);
+       // liverpool.addPlayer(pat);
+        liverpool.addPlayer(beckham);
+
+
+
+
+
+
+
+
+
     }
 
 
