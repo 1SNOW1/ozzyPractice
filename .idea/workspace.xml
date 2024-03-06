@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/m2-enum/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/CurrencyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m2-enum/src/main/java/com/cydeo/ProjectStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/BaseballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/FootballPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/SoccerPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_mathOperations/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_mathOperations/src/main/java/com/cydeo/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_mathOperations/src/main/java/com/cydeo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task_mathOperations/src/main/java/com/cydeo/MathOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cydeo/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="new modules and classes added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,12 +43,18 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.Calculate" />
@@ -123,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709246836801</updated>
-      <workItem from="1709246837812" duration="11061000" />
+      <workItem from="1709246837812" duration="15834000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -133,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709248174793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new modules and classes added">
+      <option name="closed" value="true" />
+      <created>1709668582813</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709668582813</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="new modules and classes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new modules and classes added" />
   </component>
 </project>
