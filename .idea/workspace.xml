@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="new modules and classes added" />
+    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="new modules and classes added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/EvenPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/NumberOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/OddPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/SwapValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/UnaryPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/BaseballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/FootballPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Team.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +32,35 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;1SNOW1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ba5773c8-dc52-4b94-9bd0-6298ebf1eb11" />
+        <option name="url" value="https://github.com/1SNOW1/ozzyPractice.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2d3ptk2g7kom2LSmfVpJ3rcBh84" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,6 +76,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/enesorhan/IdeaProjects/ozzyPractice/m1-generics",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,34 +85,38 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="/private/var/folders/15/jxy0qsc91xjfvnjbr8s61_140000gn/T/qodana_output/qodana.sarif.json" reportGuid="56cf96bd-01d9-4619-b351-384c68a04557" reportId="ozzyPractice/qodana/2024-03-06" />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m1-generics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m1-generics" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/m2-enum" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
+      <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.NumberOfElements">
     <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.Calculate" />
       <module name="task_mathOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Main" />
-      <module name="m2-enum" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="PATTERN" value="com.cydeo.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,7 +129,33 @@
       <module name="ozzyPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="PATTERN" value="com.cydeo.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Main" />
+      <module name="m2-enum" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.NumberOfElements" />
+      <module name="m1-generics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,6 +165,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfElements" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Calculate" />
         <item itemvalue="Application.Main" />
@@ -112,6 +181,10 @@
       <option name="presentableId" value="Default" />
       <updated>1709246836801</updated>
       <workItem from="1709246837812" duration="15834000" />
+      <workItem from="1709727732321" duration="315000" />
+      <workItem from="1709728052066" duration="1876000" />
+      <workItem from="1709912251262" duration="291000" />
+      <workItem from="1709912567946" duration="6022000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -129,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709668582813</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new modules and classes added">
+      <option name="closed" value="true" />
+      <created>1709728000647</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709728000647</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +220,9 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="new modules and classes added" />
     <option name="LAST_COMMIT_MESSAGE" value="new modules and classes added" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
