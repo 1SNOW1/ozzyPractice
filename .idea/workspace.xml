@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="new modules and classes added">
-      <change afterPath="$PROJECT_DIR$/m3-lambda/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/ApplePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/AppleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/FarmerInventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/GreenApplePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/HeavyApplePredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/lambdaTasks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/lambdaTasks/MyInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +95,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppleTest">
+  <component name="RunManager" selected="Application.lambdaTasks.Main">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.AppleTest" />
       <module name="m3-lambda" />
@@ -128,19 +115,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Calculate" />
-      <module name="task_mathOperations" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,13 +148,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lambdaTasks.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaTasks.Main" />
+      <module name="m3-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaTasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lambdaTasks.Main" />
         <item itemvalue="Application.AppleTest" />
         <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.NumberOfElements" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Calculate" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +183,7 @@
       <workItem from="1709727732321" duration="315000" />
       <workItem from="1709728052066" duration="1876000" />
       <workItem from="1709912251262" duration="291000" />
-      <workItem from="1709912567946" duration="16173000" />
+      <workItem from="1709912567946" duration="17235000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -238,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710206525630</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new modules and classes added">
+      <option name="closed" value="true" />
+      <created>1710258404722</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710258404722</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
