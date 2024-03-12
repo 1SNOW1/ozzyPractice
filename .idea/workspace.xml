@@ -5,24 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="new modules and classes added">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/EvenPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/NumberOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/OddPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/SwapValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/tasks/UnaryPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/ApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/FarmerInventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/GreenApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/HeavyApplePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Inventory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/BaseballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/BaseballPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/FootballPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/FootballPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/SoccerPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cydeo/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/m1-generics/src/main/java/com/cydeo/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -110,10 +108,10 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberOfElements">
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Calculate" />
-      <module name="task_mathOperations" />
+  <component name="RunManager" selected="Application.AppleTest">
+    <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.AppleTest" />
+      <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.tasks.*" />
@@ -124,9 +122,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Main" />
-      <module name="ozzyPractice" />
+    <configuration name="ArraySorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.ArraySorting" />
+      <module name="m3-lambda" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.Calculate" />
+      <module name="task_mathOperations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.tasks.*" />
@@ -165,10 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppleTest" />
+        <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.NumberOfElements" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Calculate" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +196,7 @@
       <workItem from="1709727732321" duration="315000" />
       <workItem from="1709728052066" duration="1876000" />
       <workItem from="1709912251262" duration="291000" />
-      <workItem from="1709912567946" duration="6022000" />
+      <workItem from="1709912567946" duration="16173000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -210,11 +222,38 @@
       <option name="project" value="LOCAL" />
       <updated>1709728000647</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new modules and classes added">
+      <option name="closed" value="true" />
+      <created>1710089439584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710089439584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new modules and classes added">
+      <option name="closed" value="true" />
+      <created>1710206525630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710206525630</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
