@@ -12,6 +12,8 @@ public class ArraySorting { //QuickSort, BubbleSort
         as.sort(quickSort);
         as.sort(bubbleSort);
 
+        Sorting quickSort1 = () -> System.out.println("Quick Sorting");
+        as.sort(quickSort1);
     }
 
     private void sort(Sorting sorting){

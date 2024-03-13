@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="lambda task" />
+    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="workspace">
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/ApplePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/ApplePredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/AppleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +79,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,7 +104,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.lambdaTasks.Main">
+  <component name="RunManager" selected="Application.OrangeTest">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.AppleTest" />
       <module name="m3-lambda" />
@@ -118,9 +131,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.Main" />
-      <module name="m2-enum" />
+    <configuration name="NumberOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.NumberOfElements" />
+      <module name="m1-generics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.tasks.*" />
@@ -131,9 +144,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.NumberOfElements" />
-      <module name="m1-generics" />
+    <configuration name="OrangeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.OrangeTest" />
+      <module name="m4-double_colon_operators" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.tasks.*" />
@@ -159,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrangeTest" />
         <item itemvalue="Application.lambdaTasks.Main" />
         <item itemvalue="Application.AppleTest" />
         <item itemvalue="Application.ArraySorting" />
         <item itemvalue="Application.NumberOfElements" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +192,7 @@
       <workItem from="1709727732321" duration="315000" />
       <workItem from="1709728052066" duration="1876000" />
       <workItem from="1709912251262" duration="291000" />
-      <workItem from="1709912567946" duration="17963000" />
+      <workItem from="1709912567946" duration="24838000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -237,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710260608276</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="workspace">
+      <option name="closed" value="true" />
+      <created>1710260641233</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710260641233</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +279,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="new modules and classes added" />
     <MESSAGE value="lambda task" />
-    <option name="LAST_COMMIT_MESSAGE" value="lambda task" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
