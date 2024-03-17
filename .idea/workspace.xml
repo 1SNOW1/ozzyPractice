@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="workspace">
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeFormatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="new module with a task, previous module task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/ArraySorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/Sorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/ApplePredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/ApplePredicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/AppleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/AppleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +182,7 @@
       <workItem from="1709727732321" duration="315000" />
       <workItem from="1709728052066" duration="1876000" />
       <workItem from="1709912251262" duration="291000" />
-      <workItem from="1709912567946" duration="24838000" />
+      <workItem from="1709912567946" duration="25947000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -258,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710260641233</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new module with a task, previous module task">
+      <option name="closed" value="true" />
+      <created>1710344507827</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710344507827</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +278,8 @@
     <MESSAGE value="new modules and classes added" />
     <MESSAGE value="lambda task" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="new module with a task, previous module task" />
+    <option name="LAST_COMMIT_MESSAGE" value="new module with a task, previous module task" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
