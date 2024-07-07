@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97e6558a-ac46-431e-bf5c-76a29e5e7473" name="Changes" comment="new module with a task, previous module task">
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/CheckMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/MemberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m3-lambda/src/main/java/com/cydeo/tasks/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-double_colon_operators/src/main/java/com/cydeo/tasks/OrangeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +97,7 @@
       <command value="mvn install" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.OrangeTest">
+  <component name="RunManager" selected="Application.MemberTest">
     <configuration name="AppleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.AppleTest" />
       <module name="m3-lambda" />
@@ -121,9 +124,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.NumberOfElements" />
-      <module name="m1-generics" />
+    <configuration name="MemberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tasks.MemberTest" />
+      <module name="m3-lambda" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.cydeo.tasks.*" />
@@ -162,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MemberTest" />
         <item itemvalue="Application.OrangeTest" />
         <item itemvalue="Application.lambdaTasks.Main" />
         <item itemvalue="Application.AppleTest" />
         <item itemvalue="Application.ArraySorting" />
-        <item itemvalue="Application.NumberOfElements" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +185,7 @@
       <workItem from="1709727732321" duration="315000" />
       <workItem from="1709728052066" duration="1876000" />
       <workItem from="1709912251262" duration="291000" />
-      <workItem from="1709912567946" duration="25947000" />
+      <workItem from="1709912567946" duration="30427000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -256,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710344507827</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new module with a task, previous module task">
+      <option name="closed" value="true" />
+      <created>1710685503423</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710685503423</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
